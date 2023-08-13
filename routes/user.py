@@ -30,8 +30,8 @@ def submit(name: str = Form(),emailAddress:str=Form(),message:str=Form()):
     print(emailAddress)
     print(message)
     
-    email_address = "navneetranjan800@gmail.com" #type mail address
-    email_password = "czfvkronuhhurwzd"
+    email_address = "alexdenwise@gmail.com" #type mail address
+    email_password = "ujqjkldmngpqnfrr"
     
     #create email
     msg = EmailMessage()
